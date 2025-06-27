@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Clientes.cpp
+  CppCLR_WinFormsProject.cpp
+  Empleados.cpp
+  Facturacion.cpp
+  Form1.cpp
+  Proveedores.cpp
+  Stock.cpp
+  ValidarDniTel.cpp
+  ValidarSyP.cpp
+  Generando código...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  FacturadorC.vcxproj -> C:\Users\Juanjo\Desktop\FacturadorC\x64\Debug\FacturadorC.exe

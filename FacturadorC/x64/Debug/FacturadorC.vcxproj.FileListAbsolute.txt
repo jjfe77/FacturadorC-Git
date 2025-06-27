@@ -1,0 +1,24 @@
+D:\MEGA\Juanjo\01 Desarrollo de Software\2do año\Programacion\TPsC\FacturadorC\FacturadorC\x64\Debug\FacturadorC.vcxproj.AssemblyReference.cache
+D:\MEGA\Juanjo\01 Desarrollo de Software\2do año\Programacion\TPsC\FacturadorC\FacturadorC\x64\Debug\FacturadorC.Clientes.resources
+D:\MEGA\Juanjo\01 Desarrollo de Software\2do año\Programacion\TPsC\FacturadorC\FacturadorC\x64\Debug\FacturadorC.Empleados.resources
+D:\MEGA\Juanjo\01 Desarrollo de Software\2do año\Programacion\TPsC\FacturadorC\FacturadorC\x64\Debug\FacturadorC.Facturacion.resources
+D:\MEGA\Juanjo\01 Desarrollo de Software\2do año\Programacion\TPsC\FacturadorC\FacturadorC\x64\Debug\FacturadorC.Form1.resources
+D:\MEGA\Juanjo\01 Desarrollo de Software\2do año\Programacion\TPsC\FacturadorC\FacturadorC\x64\Debug\FacturadorC.Proveedores.resources
+D:\MEGA\Juanjo\01 Desarrollo de Software\2do año\Programacion\TPsC\FacturadorC\FacturadorC\x64\Debug\FacturadorC.Stock.resources
+D:\MEGA\Juanjo\01 Desarrollo de Software\2do año\Programacion\TPsC\FacturadorC\FacturadorC\x64\Debug\FacturadorC.vcxproj.GenerateResource.cache
+C:\Users\Usuario\Documents\MEGA\Juanjo\01 Desarrollo de Software\2do año\Programacion\TPsC\FacturadorC\FacturadorC\x64\Debug\FacturadorC.vcxproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\MEGA\Juanjo\01 Desarrollo de Software\2do año\Programacion\TPsC\FacturadorC\FacturadorC\x64\Debug\FacturadorC.Clientes.resources
+C:\Users\Usuario\Documents\MEGA\Juanjo\01 Desarrollo de Software\2do año\Programacion\TPsC\FacturadorC\FacturadorC\x64\Debug\FacturadorC.Empleados.resources
+C:\Users\Usuario\Documents\MEGA\Juanjo\01 Desarrollo de Software\2do año\Programacion\TPsC\FacturadorC\FacturadorC\x64\Debug\FacturadorC.Facturacion.resources
+C:\Users\Usuario\Documents\MEGA\Juanjo\01 Desarrollo de Software\2do año\Programacion\TPsC\FacturadorC\FacturadorC\x64\Debug\FacturadorC.Form1.resources
+C:\Users\Usuario\Documents\MEGA\Juanjo\01 Desarrollo de Software\2do año\Programacion\TPsC\FacturadorC\FacturadorC\x64\Debug\FacturadorC.Proveedores.resources
+C:\Users\Usuario\Documents\MEGA\Juanjo\01 Desarrollo de Software\2do año\Programacion\TPsC\FacturadorC\FacturadorC\x64\Debug\FacturadorC.Stock.resources
+C:\Users\Usuario\Documents\MEGA\Juanjo\01 Desarrollo de Software\2do año\Programacion\TPsC\FacturadorC\FacturadorC\x64\Debug\FacturadorC.vcxproj.GenerateResource.cache
+C:\Users\Juanjo\Desktop\FacturadorC\FacturadorC\x64\Debug\FacturadorC.vcxproj.AssemblyReference.cache
+C:\Users\Juanjo\Desktop\FacturadorC\FacturadorC\x64\Debug\FacturadorC.Clientes.resources
+C:\Users\Juanjo\Desktop\FacturadorC\FacturadorC\x64\Debug\FacturadorC.Empleados.resources
+C:\Users\Juanjo\Desktop\FacturadorC\FacturadorC\x64\Debug\FacturadorC.Facturacion.resources
+C:\Users\Juanjo\Desktop\FacturadorC\FacturadorC\x64\Debug\FacturadorC.Form1.resources
+C:\Users\Juanjo\Desktop\FacturadorC\FacturadorC\x64\Debug\FacturadorC.Proveedores.resources
+C:\Users\Juanjo\Desktop\FacturadorC\FacturadorC\x64\Debug\FacturadorC.Stock.resources
+C:\Users\Juanjo\Desktop\FacturadorC\FacturadorC\x64\Debug\FacturadorC.vcxproj.GenerateResource.cache
